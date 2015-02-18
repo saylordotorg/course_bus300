@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Work Systems Design** <span id="8"></span> 
 *It seems reasonable that a worker’s level of job satisfaction would
 influence his or her job performance.  At some point in your life, you

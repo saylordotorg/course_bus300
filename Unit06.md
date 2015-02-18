@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Just-In-Time and Lean Systems** <span id="6"></span> 
 *Would you order a delivery pizza for dinner from a restaurant
 advertising delivery in 6 hours?  How about a restaurant that can bring

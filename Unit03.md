@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Product Design and Process Selection** <span id="3"></span> 
 *If you have purchased a mobile phone recently, you have witnessed a
 product category with perhaps the most diverse range of product designs

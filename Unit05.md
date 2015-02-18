@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Supply Chain Management (SCM)** <span id="5"></span> 
 *Many of the problems associated with supply chain management are
 closely related to the typical problems of operations management. 

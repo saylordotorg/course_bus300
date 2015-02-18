@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Quality Management** <span id="4"></span> 
 *Quality management is a primary concern in operations departments. 
 Though all employees and managers should be concerned with maintaining

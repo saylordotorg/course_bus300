@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Operations Strategy** <span id="2"></span> 
 *The most significant aspect of operations management is the process
 itself.  How does Apple take a pile of chips, glass, and plastic, and

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Capacity Planning and Facility Layout** <span id="7"></span> 
 *In the last unit, we looked at manufacturing and service processes that
 help companies deliver what a customer wants when they want it.  Before

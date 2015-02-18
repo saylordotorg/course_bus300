@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS300: Operations Management"
+course_description: "An examination of how companies manage processes to produce the products or services required by their customers. Topics include product design, supply chain management, quality, inventory, and planning."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Inventory** <span id="10"></span> 
 *In a manufacturing context, inventory includes raw materials, work that
 is in process, and finished goods.  Running out of a necessary component
